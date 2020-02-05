@@ -1,0 +1,1 @@
+theme get --password="9829501f28e4cc43702c788fff771da0" --store=oscar-preview.myshopify.com --themeid=84652064827
